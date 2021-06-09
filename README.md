@@ -1,4 +1,4 @@
-  ### Hello!  <img src="https://github.com/mahmoodfoysal/mahmoodfoysal/blob/main/assets/Hi.gif" width="29px"> This is Foysal Mahmood
+  ### Hello! This is Foysal Mahmood <img src="https://github.com/mahmoodfoysal/mahmoodfoysal/blob/main/assets/Hi.gif" width="29px"> 
   [![Visits Badge](https://badges.pufler.dev/visits/mahmoodfoysal/mahmoodfoysal)](https://badges.pufler.dev/visits/mahmoodfoysal/mahmoodfoysal)
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
